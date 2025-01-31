@@ -1,4 +1,4 @@
-
+# Here, the following tasks are implemented:
 
 1. Study the Strategy pattern. Create an application for calculating prices for goods using various discount strategies. For example, implement:
 Fixed discount
@@ -9,3 +9,4 @@ Implement a class with the ability to select a strategy and apply it when calcul
 2. It is necessary to develop a program that uses the Command design pattern to control some actions in the Smart Home system. As an example, consider controlling devices such as lights, fans, or other household appliances.
 
 3. Analyze and implement a behavioral pattern that was not studied in the lesson.
+The program was implemented on the Observer pattern, weather station
